@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live example is on https://dash-5c420.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
